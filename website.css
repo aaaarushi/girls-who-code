@@ -1,5 +1,7 @@
 p {
   color: aquamarine;
   background-color: darkblue;
-  border: 5px;
+}
+h1 {
+  text-decoration: underline;
 }
