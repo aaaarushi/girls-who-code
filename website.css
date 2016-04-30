@@ -1,6 +1,11 @@
-p {
-  color: darkturquoise;
+body {
+  background-image: url("https://pixabay.com/static/uploads/photo/2016/01/15/23/17/background-1142632_960_720.jpg");
+  font-family: "Verdana", monospace;
+  color: white;
 }
-h1, h2, h3 {
-  color: darkviolet;
+img {
+  background-color: white;
+}
+#hp-books {
+  width: 200px;
 }
