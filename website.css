@@ -21,9 +21,6 @@ img {
 img {
   width: 300px;
 }
-.nav {
-  
-}
 .nav > div {
   background: darkturquoise;
   color: white;
@@ -35,4 +32,8 @@ img {
   padding: 10px;
   margin: 10px;
   width: 100px;
+}
+
+.nav > div:hover {
+  background: cornflowerblue;
 }
