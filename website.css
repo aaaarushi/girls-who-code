@@ -3,9 +3,21 @@ body {
   font-family: "Verdana", monospace;
   color: white;
 }
+h1 {
+  color: black;
+}
+h2 {
+  color: navy;
+}
+h3 {
+  color: limegreen;
+}
+h4 {
+  color: darkviolet;
+}
 img {
   background-color: white;
 }
-#hp-books {
-  width: 200px;
+img {
+  width: 300px;
 }
