@@ -30,7 +30,7 @@ ul.tab {
   padding: 0;
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: #f1f1f1;
+  background-color: lightskyblue;
 }
 ul.tab li {
   float: left;
@@ -45,10 +45,10 @@ ul.tab li a {
   font-size: 17px;
 }
 ul.tab li a:hover {
-  background-color: #ddd;
+  background-color: deepskyblue;
 }
 ul.tab li a:focus, .active {
-  background-color: #ccc;
+  background-color: dodgerblue;
 }
 .tabcontent {
   display: none;
