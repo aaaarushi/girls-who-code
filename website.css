@@ -1,7 +1,7 @@
 body {
-  background-color: orchid;
+  background-color: darkturquoise;
   font-family: "Verdana", monospace;
-  color: darkturquoise;
+  color: darkviolet;
 }
 h1, h2, h3, h4 {
   text-align: center;
@@ -16,7 +16,7 @@ h3 {
   color: limegreen;
 }
 h4 {
-  color: darkviolet;
+  color: palevioletred;
 }
 img {
   background-color: white;
@@ -30,7 +30,7 @@ ul.tab {
   padding: 0;
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: lightskyblue;
+  background-color: orchid;
 }
 ul.tab li {
   float: left;
@@ -45,10 +45,10 @@ ul.tab li a {
   font-size: 17px;
 }
 ul.tab li a:hover {
-  background-color: deepskyblue;
+  background-color: mediumorchid;
 }
 ul.tab li a:focus, .active {
-  background-color: dodgerblue;
+  background-color: darkorchid;
 }
 .tabcontent {
   display: none;
