@@ -7,16 +7,16 @@ h1, h2, h3, h4 {
   text-align: center;
 }
 h1 {
-  color: dodgerblue;
+  color: #ADDEFA;
 }
 h2 {
-  color: limegreen;
+  color: #F15095;
 }
 h3 {
-  color: palevioletred;
+  color: #B8D604;
 }
 h4 {
-  color: deeppink;
+  color: #7C144D;
 }
 img {
   background-color: white;
