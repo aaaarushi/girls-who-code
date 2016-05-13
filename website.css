@@ -1,7 +1,10 @@
 body {
-  background-image: url("https://pixabay.com/static/uploads/photo/2016/01/15/23/17/background-1142632_960_720.jpg");
+  /*background-image: url("https://pixabay.com/static/uploads/photo/2016/01/15/23/17/background-1142632_960_720.jpg");*/
   font-family: "Verdana", monospace;
-  color: white;
+  color: darkturquoise;
+}
+h1 h2 h3 h4 {
+  text-align: center;
 }
 h1 {
   color: black;
