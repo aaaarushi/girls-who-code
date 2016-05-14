@@ -15,6 +15,7 @@ ul.tab {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  color: #DFDCE3;
   overflow: hidden;
   border: 1px solid #ccc;
   background-color: #FC4A1A;
