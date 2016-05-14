@@ -1,22 +1,11 @@
 body {
-  background-color: darkturquoise;
+  background-color: #4ABDAC;
   font-family: "Verdana", monospace;
-  color: darkviolet;
+  color: #DFDCE3;
 }
 h1, h2, h3, h4 {
   text-align: center;
-}
-h1 {
-  color: #ADDEFA;
-}
-h2 {
-  color: #F15095;
-}
-h3 {
-  color: #B8D604;
-}
-h4 {
-  color: #7C144D;
+  color: #F7B733;
 }
 img {
   background-color: white;
@@ -30,7 +19,7 @@ ul.tab {
   padding: 0;
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: orchid;
+  background-color: #FC4A1A;
 }
 ul.tab li {
   float: left;
