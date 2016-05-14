@@ -34,10 +34,10 @@ ul.tab li a {
   font-size: 17px;
 }
 ul.tab li a:hover {
-  background-color: mediumorchid;
+  background-color: tomato;
 }
 ul.tab li a:focus, .active {
-  background-color: darkorchid;
+  background-color: coral;
 }
 .tabcontent {
   display: none;
