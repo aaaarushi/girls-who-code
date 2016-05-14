@@ -29,6 +29,7 @@ ul.tab li a {
   text-decoration: none;
   transition: 0.3s;
   font-size: 17px;
+  color: #DFDCE3;
 }
 ul.tab li a:hover {
   background-color: tomato;
